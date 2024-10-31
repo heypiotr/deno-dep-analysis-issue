@@ -3,3 +3,6 @@ run:
 
 clean:
 	rm -rf deno
+
+node:
+	node node.mjs

@@ -1,0 +1,2 @@
+import{Va as r}from"./chunk-3QXNLKEC.mjs";r.loadFonts([]);var s=[{explicitInter:!0,fonts:[]}],i=[".framer-xuHoH .framer-styles-preset-su0z6s { border-bottom-left-radius: 12px; border-bottom-right-radius: 12px; border-bottom-width: 1px; border-color: rgba(255, 255, 255, 0.1); border-left-width: 1px; border-right-width: 1px; border-style: solid; border-top-left-radius: 12px; border-top-right-radius: 12px; border-top-width: 1px; }"],n="framer-xuHoH";export{s as a,i as b,n as c};
+//# sourceMappingURL=chunk-WF7CMEKQ.mjs.map

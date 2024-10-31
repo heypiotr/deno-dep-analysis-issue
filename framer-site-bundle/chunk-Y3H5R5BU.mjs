@@ -1,0 +1,2 @@
+import{pa as o,w as a}from"./chunk-3QXNLKEC.mjs";import{E as t,F as r,z as e}from"./chunk-WFOYFRYZ.mjs";function _(i){return s=>{let n=e(),p=o(),u=a(n,{once:!p,margin:"0px 0px 500px 0px"});return r("div",{style:{display:"contents"},children:[t("div",{style:{position:"absolute",width:"1px",height:"1px",zIndex:"0"},ref:n}),u?t(i,{...s}):null]})}}export{_ as a};
+//# sourceMappingURL=chunk-Y3H5R5BU.mjs.map

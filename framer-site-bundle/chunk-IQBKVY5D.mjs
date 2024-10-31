@@ -1,0 +1,2 @@
+import{$ as c,Z as u}from"./chunk-3QXNLKEC.mjs";import{A as n,s as f}from"./chunk-WFOYFRYZ.mjs";function O(r){let o=u({state:Object.freeze({...r})}),i=e=>{typeof e=="function"&&(e=e(o.state)),o.state=Object.freeze({...o.state,...e})},t=typeof r=="object"?Object.freeze({...r}):r,s=new Set,p=e=>{typeof e=="function"&&(e=e(t)),t=typeof e=="object"?Object.freeze({...t,...e}):e,s.forEach(a=>a(t))};function b(){let[e,a]=n(t);return f(()=>(s.add(a),()=>s.delete(a)),[]),c()===!0?(c(),[o.state,i]):[e,p]}return b}export{O as a};
+//# sourceMappingURL=chunk-IQBKVY5D.mjs.map

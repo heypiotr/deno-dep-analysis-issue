@@ -1,0 +1,2 @@
+import{E as a}from"./chunk-WFOYFRYZ.mjs";import{c as t}from"./chunk-JXOLF6V7.mjs";function d(r){return i=>a(r,{...i,link:void 0,onClick:()=>{var n,o;!((o=t)===null||o===void 0||(n=o.Intercom)===null||n===void 0)&&n.booted||(t.location="mailto:support@framer.com")}})}function m(r){return i=>a(r,{...i,link:void 0,onClick:()=>{var n,o;!((o=t)===null||o===void 0||(n=o.Intercom)===null||n===void 0)&&n.booted||(t.location="mailto:emergency@framer.com")}})}export{d as a,m as b};
+//# sourceMappingURL=chunk-R7I3ZY7N.mjs.map
